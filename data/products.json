@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "청바지",
+        "price": 5000,
+        "imageSrc": "/images/청바지.avif"
+    },
+    {
+        "id": "12",
+        "name": "티셔츠",
+        "price": 3000,
+        "imageSrc": "/images/티셔츠.avif"
+    },
+    {
+        "id": "123",
+        "name": "부츠",
+        "price": 17000,
+        "imageSrc": "/images/부츠.avif"
+    }
+]
